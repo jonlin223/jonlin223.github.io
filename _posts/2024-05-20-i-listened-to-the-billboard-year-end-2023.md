@@ -1,3 +1,9 @@
+---
+layout: post
+title: I Listened to the Billboard Year-End 100 of 2023 So You Don’t Have To
+categories: music
+---
+
 # I Listened to the Billboard Year-End 100 of 2023 So You Don’t Have To
 
 # Introduction
