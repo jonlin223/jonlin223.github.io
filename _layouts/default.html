@@ -7,13 +7,9 @@
 </head>
 <body>
     <div class="container">
-        <div id="menu-box" class="left">
-            <div>
-                Hi
-            </div>
-            <div>
-                There
-            </div>
+        <div class="menu-box left">
+            {% include button.html text="ON/OFF"%}
+            {% include button.html text="MENU"%}
         </div>
         <div id="black-box">
             <div id="white-box">
@@ -23,7 +19,7 @@
                 Jonathan Lin
             </h1>
         </div>
-        <div id="menu-box" class="right">
+        <div class="menu-box right">
             <div class="d1">Hi</div>
             <div class="d1">There</div>
             <div class="d1">Secrets!</div>
